@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <available_offline>false</available_offline>
+        <description> 変更要求</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="アイコン - アドレス - ブック">86b87f54074220103e3af0ef7c1ed064</icon>
+        <name>Activity Stream</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-28 02:11:38</sys_created_on>
+        <sys_id>18c8bf94074220103e3af0ef7c1ed0fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="testapp" source="x_540075_testapp">b178f794074220103e3af0ef7c1ed0c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_18c8bf94074220103e3af0ef7c1ed0fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-28 02:11:38</sys_updated_on>
+        <table>change_request</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=18c8bf94074220103e3af0ef7c1ed0fe"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>18c8bf94074220103e3af0ef7c1ed0fe</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-28 02:11:38</sys_created_on>
+        <sys_id>54c8bf94074220103e3af0ef7c1ed0ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-28 02:11:38</sys_updated_on>
+        <tablename>sys_sg_activity_stream_screen</tablename>
+        <value> 変更要求</value>
+    </sys_translated_text>
+</record_update>

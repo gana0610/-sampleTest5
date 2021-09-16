@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="test_gana_catalog">a1ee6f9207f620103e3af0ef7c1ed0dd</sc_catalog>
+        <sp_portal display_value="テスト_サービスポータル">fa3f9a1e07f220103e3af0ef7c1ed05d</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-12 13:24:06</sys_created_on>
+        <sys_id>b10f6fd207f620103e3af0ef7c1ed001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_gana_catalog.テスト_サービスポータル</sys_name>
+        <sys_package display_value="testapp" source="x_540075_testapp">b178f794074220103e3af0ef7c1ed0c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_b10f6fd207f620103e3af0ef7c1ed001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-12 13:24:06</sys_updated_on>
+    </m2m_sp_portal_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</application>
+        <file_path/>
+        <instance_id>4d6422fedb24b70049eac59705961945</instance_id>
+        <instance_name>dev78976</instance_name>
+        <name>m2m_sp_portal_catalog_b10f6fd207f620103e3af0ef7c1ed001</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog"><m2m_sp_portal_catalog action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sc_catalog display_value="test_gana_catalog">a1ee6f9207f620103e3af0ef7c1ed0dd</sc_catalog><sp_portal display_value="テスト_サービスポータル">fa3f9a1e07f220103e3af0ef7c1ed05d</sp_portal><sys_class_name>m2m_sp_portal_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-12 13:24:06</sys_created_on><sys_id>b10f6fd207f620103e3af0ef7c1ed001</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test_gana_catalog.テスト_サービスポータル</sys_name><sys_package display_value="testapp" source="x_540075_testapp">b178f794074220103e3af0ef7c1ed0c6</sys_package><sys_policy/><sys_scope display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</sys_scope><sys_update_name>m2m_sp_portal_catalog_b10f6fd207f620103e3af0ef7c1ed001</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-12 13:24:06</sys_updated_on></m2m_sp_portal_catalog></record_update>]]></payload>
+        <payload_hash>-1009950295</payload_hash>
+        <record_name>test_gana_catalog.テスト_サービスポータル</record_name>
+        <reverted_from/>
+        <source>f578f794074220103e3af0ef7c1ed0c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-12 13:24:06</sys_created_on>
+        <sys_id>f50f6fd207f620103e3af0ef7c1ed003</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178269bc5d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-12 13:24:06</sys_updated_on>
+        <type>ポータル カタログ</type>
+        <update_guid>fd0f6fd2def62010f892101b3d58b402</update_guid>
+        <update_guid_history>fd0f6fd2def62010f892101b3d58b402:-1009950295</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="test_gana_catalog.テスト_サービスポータル">4963f3d607f620103e3af0ef7c1ed0c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-12 13:43:09</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_catalog">m2m_sp_portal_catalog</sys_db_object>
+        <sys_id>01a11d6b32df48aa80e98ee99d980661</sys_id>
+        <sys_metadata>b10f6fd207f620103e3af0ef7c1ed001</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_gana_catalog.テスト_サービスポータル</sys_name>
+        <sys_package display_value="testapp" source="x_540075_testapp">b178f794074220103e3af0ef7c1ed0c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</sys_scope>
+        <sys_scope_delete display_value="">0f08d7fb93154d358aec90294b48de29</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_catalog_b10f6fd207f620103e3af0ef7c1ed001</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_catalog_b10f6fd207f620103e3af0ef7c1ed001">f50f6fd207f620103e3af0ef7c1ed003</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-12 13:43:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

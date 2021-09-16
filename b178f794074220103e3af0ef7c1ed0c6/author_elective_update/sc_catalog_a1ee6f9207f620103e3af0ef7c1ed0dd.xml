@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="DELETE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description/>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-12 13:24:04</sys_created_on>
+        <sys_id>a1ee6f9207f620103e3af0ef7c1ed0dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_gana_catalog</sys_name>
+        <sys_package display_value="testapp" source="x_540075_testapp">b178f794074220103e3af0ef7c1ed0c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</sys_scope>
+        <sys_update_name>sc_catalog_a1ee6f9207f620103e3af0ef7c1ed0dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-12 13:24:04</sys_updated_on>
+        <title>test_gana_catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="DELETE" query="documentkey=a1ee6f9207f620103e3af0ef7c1ed0dd"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>a1ee6f9207f620103e3af0ef7c1ed0dd</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-12 13:24:05</sys_created_on>
+        <sys_id>710f2fd207f620103e3af0ef7c1ed0e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-12 13:24:05</sys_updated_on>
+        <tablename>sc_catalog</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</application>
+        <file_path/>
+        <instance_id>4d6422fedb24b70049eac59705961945</instance_id>
+        <instance_name>dev78976</instance_name>
+        <name>sc_catalog_a1ee6f9207f620103e3af0ef7c1ed0dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog"><sc_catalog action="INSERT_OR_UPDATE"><active>true</active><background_color>white</background_color><description/><desktop_continue_shopping/><desktop_home_page/><desktop_image/><editors/><enable_wish_list>false</enable_wish_list><manager/><sys_class_name>sc_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-12 13:24:04</sys_created_on><sys_id>a1ee6f9207f620103e3af0ef7c1ed0dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test_gana_catalog</sys_name><sys_package display_value="testapp" source="x_540075_testapp">b178f794074220103e3af0ef7c1ed0c6</sys_package><sys_policy/><sys_scope display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</sys_scope><sys_update_name>sc_catalog_a1ee6f9207f620103e3af0ef7c1ed0dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-12 13:24:04</sys_updated_on><title>test_gana_catalog</title></sc_catalog><sys_translated_text action="delete_multiple" query="documentkey=a1ee6f9207f620103e3af0ef7c1ed0dd"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>a1ee6f9207f620103e3af0ef7c1ed0dd</documentkey><fieldname>description</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-12 13:24:05</sys_created_on><sys_id>710f2fd207f620103e3af0ef7c1ed0e9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-12 13:24:05</sys_updated_on><tablename>sc_catalog</tablename><value/></sys_translated_text></record_update>]]></payload>
+        <payload_hash>-15578764</payload_hash>
+        <record_name>test_gana_catalog</record_name>
+        <reverted_from/>
+        <source>f578f794074220103e3af0ef7c1ed0c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-12 13:24:05</sys_created_on>
+        <sys_id>7d0f2fd207f620103e3af0ef7c1ed0ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178269bc3d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-12 13:24:05</sys_updated_on>
+        <type>Catalog</type>
+        <update_guid>f50f2fd2d8f62010dbed6e3253acd0ea</update_guid>
+        <update_guid_history>f50f2fd2d8f62010dbed6e3253acd0ea:-15578764</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="test_gana_catalog">2ce0375607f620103e3af0ef7c1ed022</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-12 13:32:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog">sc_catalog</sys_db_object>
+        <sys_id>b2576c4d69fb4b3b903aa01d4bae6f11</sys_id>
+        <sys_metadata>a1ee6f9207f620103e3af0ef7c1ed0dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_gana_catalog</sys_name>
+        <sys_package display_value="testapp" source="x_540075_testapp">b178f794074220103e3af0ef7c1ed0c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="testapp">b178f794074220103e3af0ef7c1ed0c6</sys_scope>
+        <sys_scope_delete display_value="">0f08d7fb93154d358aec90294b48de29</sys_scope_delete>
+        <sys_update_name>sc_catalog_a1ee6f9207f620103e3af0ef7c1ed0dd</sys_update_name>
+        <sys_update_version display_value="sc_catalog_a1ee6f9207f620103e3af0ef7c1ed0dd">7d0f2fd207f620103e3af0ef7c1ed0ea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-12 13:32:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
